@@ -1,1 +1,10 @@
-future: true
+safe:        false
+auto:        false
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+future:      true
+lsi:         false
+pygments:    false
